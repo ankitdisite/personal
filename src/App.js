@@ -13,7 +13,7 @@ function App() {
   
 
   return (
-    <div className="App" style={{backgroundColor: 'black', color: 'white', minHeight: '100vh', padding: '20px'}}>
+    <div className="App" style={{backgroundColor: 'black', color: 'white', minHeight: '1000vh', padding: '900px'}}>
       <h1>Download Moon Image</h1>
       <select onChange={handleDropdownChange} style={{marginBottom: '20px', fontSize: '16px', padding: '10px'}}>
         <option value="144">144p</option>
