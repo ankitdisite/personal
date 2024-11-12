@@ -52,7 +52,7 @@ function App() {
           {selectedOption && 
           selectedOption==="1080"  &&(
             <img
-              src={require('./nehu.jpeg')}
+           //   src={require('./nehu.jpeg')}
               //alt={selectedOption}
               style={{ maxWidth: '600px', maxHeight: '500px'}}
             />
